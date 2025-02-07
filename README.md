@@ -1,5 +1,5 @@
 # TysonChess (Rating of 800)
-
+Created by Tyson Line and Rafael Robin (@Robin-in-in)
 
 **TysonChess** is a fully functional chess engine implemented in Java. It is inspired by a high-performance C engine Sophia by bartekspitza. It utilizes advanced techniques such as bitboards, magic bitboards, Zobrist hashing, and an alpha–beta search with move ordering and transposition tables. The engine supports the Universal Chess Interface (UCI) protocol, making it compatible with many chess GUIs.
 
